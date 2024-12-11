@@ -13,7 +13,7 @@ export default function CommunityPage() {
   return (
     <div className="space-y-8">
       <h1 className="text-4xl font-bold text-center text-primary">
-        Women's Community
+        Womens Community
       </h1>
       <Card className="p-6 bg-background shadow-lg">
         <Tabs defaultValue="chat" className="w-full">
