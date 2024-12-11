@@ -17,7 +17,7 @@ export default function Home() {
           Welcome to WomenConnect
         </h1>
         <p className="text-2xl mb-8 max-w-2xl mx-auto">
-          The world's largest community for women to chat, share, and
+          The worlds largest community for women to chat, share, and
           collaborate.
         </p>
         <Button asChild size="lg" className="text-lg">

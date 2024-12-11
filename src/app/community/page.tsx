@@ -1,7 +1,12 @@
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import ChatInterface from "@/components/chat-interface";
-import CreateGroup from "@/components/create-group";
-import DiscussionForum from "@/components/discussion-forum";
+import {
+  Tabs,
+  TabsContent,
+  TabsList,
+  TabsTrigger,
+} from "@/app/components/ui/tabs";
+import ChatInterface from "@/app/components/chat-interface";
+import CreateGroup from "@/app/components/create-group";
+import DiscussionForum from "@/app/components/discussion-forum";
 import { Card } from "@/app/components/ui/card";
 
 export default function CommunityPage() {
