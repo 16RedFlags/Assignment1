@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
 module.exports = {
   basePath: "/Assignment1",
   assetPrefix: "/Assignment1/",
+  output: "export",
 };
 
 export default nextConfig;
